@@ -1,5 +1,0 @@
-wscat -c wss://stream.data.alpaca.markets/v1beta1/crypto?exchanges=CBSE
-
-{"action":"auth","key": "PKHJFAFKDGJU3MTOWGE0", "secret": "q03Lnuod6q7aAnhgiMzMPwbHNKA1Po1RXEoxHHEM"}
-
-{"action" : "subscribe","trades" : ["BTCUSD"]}
